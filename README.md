@@ -1,4 +1,4 @@
-# “Stealthy False Data Injection Attack on Unmanned Aerial Vehicles
+# Stealthy False Data Injection Attack on Unmanned Aerial Vehicles
 
 **This code provides how to inject the stealthy measurements into the system without being detected by the anomaly detector.**
 
