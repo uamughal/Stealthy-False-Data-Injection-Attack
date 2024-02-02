@@ -6,10 +6,10 @@ Unmanned aerial vehicles (UAVs) are widely used for military and civilian applic
 
 **This work is published in IEEE Conference on Communications and Network Security (CNS), 2023, Orlando, FL, USA**
 
-# Real-time Attacking on an actual drone system.
+# Real-time Attacking on an actual drone system Requirement
 If you require a real-time attack implementation on an actual drone system, which misleads the drone to the wrong destination without being detected. This code involves Kalman filtering and controller manipulations. This code will be provided on request. Please reach out to us using your academic email and indicate the intention that the code will be used for academic research and development purposes. We would be very happy to provide it.**
 
-**The code in this repository provides the simulation and light version.**
+**The code in this repository provides the simulation and light version.
 
 # Citing this work
 If you are using our implementation, you are encouraged to cite [our paper](https://ieeexplore.ieee.org/abstract/document/10289001).
